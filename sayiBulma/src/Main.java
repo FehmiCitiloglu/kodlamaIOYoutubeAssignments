@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 	    int[] numbers = new int[]{1, 2, 5, 7, 9, 0};
 	    int wanted = 10;
-/*
+
 	    boolean isIn = false;
 
         for (int number: numbers) {
@@ -17,8 +17,8 @@ public class Main {
     }else {
         System.out.println("Sayıların içinde yok");
     }
- */
-    // 2. yöntem
-        
+
+
+
     }
 }
